@@ -1,0 +1,12 @@
+.women{
+	background-image: url("barcelona.png");
+	background-size: cover;
+}
+.men{
+	background-image: url("newyork.png");
+	background-size: cover;
+}
+.newest{
+	background-image: url("milano.png");
+	background-size: cover;
+}
