@@ -1,0 +1,41 @@
+.navigation {
+}
+.logo {
+	height: 4em;
+}
+.login {
+	height: 2.5em;
+}
+.nav {
+	height: 2.5em;
+}
+
+.submenu {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.magnifier {
+	height: 1.3em;
+}
+
+.showme {
+	display: none;
+}
+
+.showhim:hover .showme {
+	height: 14em;
+	position: absolute;
+	top: 7.6em;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	border-bottom: 1px solid black;
+	z-index: 10;
+}
+ul {
+	list-style-type: none;
+}

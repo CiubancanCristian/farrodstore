@@ -1,0 +1,29 @@
+.searchDrawer {
+	position: relative;
+	top: 0;
+	left:0;
+	width: 102vw;
+	height: 3em;
+	transform: translateX(600%);
+	z-index: 0;
+}
+input{
+ background-image: url(whiteMagnifier.png);
+ background-repeat: no-repeat;
+ background-position: right; 
+}
+.searchDrawer.open {
+	transform: translateX(0);
+	z-index: 0;
+}
+
+.search-box {
+	border: 1px solid black;
+	outline: none;
+}
+
+.sbct {
+	height: 3em;
+	border-bottom: 1px solid black;
+	z-index: 0;
+}

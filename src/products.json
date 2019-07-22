@@ -1,0 +1,967 @@
+{
+  "Products": {
+    "Product": [
+      {
+        "Product_id": "42437",
+        "Product_Model": "WH2-08_555411_001",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Blazer",
+        "Product_Category": "Women Blazer",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women Blazer",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> Blazer<br><b>Made in:</b> Tunisia<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Fastening:</b> buttons<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Pockets:</b> front pockets<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -52% cotton -3% elastane -45% polyamide <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "500.00",
+        "Product_Price_Special": "113",
+        "Product_Image_1": "http://static.griffati.com/images/large1/001_TINTA_UNITA_3288FA1A0E8376F3249E9F0571018406_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/001_TINTA_UNITA_3288FA1A0E8376F3249E9F0571018406_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/001_TINTA_UNITA_3288FA1A0E8376F3249E9F0571018406_NERO.jpg",
+        "Product_Quantity": "3",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42437_44",
+            "parent_id": "42437",
+            "size": "44",
+            "availability": "3",
+            "ean": "7438632257159"
+          }
+        },
+        "Product_Weight": "2.000",
+        "Product_Colour": "black",
+        "Product_MadeIn": "TUNISIA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42445",
+        "Product_Model": "WH2-08_555462_001",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Jackets",
+        "Product_Category": "Women Jackets",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women Jacket",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> Jackets<br><b>Made in:</b> China<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Fastening:</b> with automatic buttons<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Pockets:</b> front pockets<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b>  -80% feathers  -100% down  -100% polyester <br>&bull;  <b>Washing:</b> dry cleaned",
+        "Product_Price": "550.00",
+        "Product_Price_Special": "113",
+        "Product_Image_1": "http://static.griffati.com/images/large1/001_TINTA_UNITA_0783A03AF2077F631E9964A87B363320_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/001_TINTA_UNITA_0783A03AF2077F631E9964A87B363320_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/001_TINTA_UNITA_0783A03AF2077F631E9964A87B363320_NERO.jpg",
+        "Product_Quantity": "2",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42445_44",
+            "parent_id": "42445",
+            "size": "44",
+            "availability": "2",
+            "ean": "7438632255285"
+          }
+        },
+        "Product_Weight": "2.500",
+        "Product_Colour": "black",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "0>"
+      },
+      {
+        "Product_id": "42508",
+        "Product_Model": "WH2-14_570583_309",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Shirts",
+        "Product_Category": "Women Shirts",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women Shirt",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> Shirts<br><b>Made in:</b> Tunisia<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> green<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Collar:</b> classic<br>&bull; <b>Details:</b> -slim fit <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -96% cotton -4% elastane <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "130.00",
+        "Product_Price_Special": "27",
+        "Product_Image_1": "http://static.griffati.com/images/large1/309_TINTA_UNITA_D125D025C0DA9A82ADF43E5228CEDD57_VERDE.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/309_TINTA_UNITA_D125D025C0DA9A82ADF43E5228CEDD57_VERDE.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/309_TINTA_UNITA_D125D025C0DA9A82ADF43E5228CEDD57_VERDE.jpg",
+        "Product_Quantity": "2",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42508_44",
+            "parent_id": "42508",
+            "size": "44",
+            "availability": "2",
+            "ean": "7438632256336"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "green",
+        "Product_MadeIn": "TUNISIA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42512",
+        "Product_Model": "WH2-14_570583_001",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Shirts",
+        "Product_Category": "Women Shirts",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women Shirt",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> Shirts<br><b>Made in:</b> Tunisia<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Fastening:</b> buttons<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Collar:</b> classic<br>&bull; <b>Details:</b> -slim fit <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -75% cotton -25% polyester <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "130.00",
+        "Product_Price_Special": "27",
+        "Product_Image_1": "http://static.griffati.com/images/large1/001_TINTA_UNITA_3D090B8C9B52EF583FA80D78B1DE8DD6_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/001_TINTA_UNITA_3D090B8C9B52EF583FA80D78B1DE8DD6_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/001_TINTA_UNITA_3D090B8C9B52EF583FA80D78B1DE8DD6_NERO.jpg",
+        "Product_Quantity": "0",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42512_44",
+            "parent_id": "42512",
+            "size": "44",
+            "availability": "0",
+            "ean": "7438632254691"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "black",
+        "Product_MadeIn": "TUNISIA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42523",
+        "Product_Model": "WH2-14_570765_001",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Shirts",
+        "Product_Category": "Women Shirts",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women Shirt",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> Shirts<br><b>Made in:</b> Slovakia<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Fastening:</b> buttons<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Collar:</b> classic<br>&bull; <b>Details:</b> -regular fit <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b>  -100% cotton <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "130.00",
+        "Product_Price_Special": "27",
+        "Product_Image_1": "http://static.griffati.com/images/large1/001_TINTA_UNITA_46B2C8BDEE5C1E5B3025EFCB27669CD4_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/001_TINTA_UNITA_46B2C8BDEE5C1E5B3025EFCB27669CD4_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/001_TINTA_UNITA_46B2C8BDEE5C1E5B3025EFCB27669CD4_NERO.jpg",
+        "Product_Quantity": "15",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42523_40",
+              "parent_id": "42523",
+              "size": "40",
+              "availability": "6",
+              "ean": "7438632254523"
+            },
+            {
+              "id": "42523_42",
+              "parent_id": "42523",
+              "size": "42",
+              "availability": "2",
+              "ean": "7438632257074"
+            },
+            {
+              "id": "42523_44",
+              "parent_id": "42523",
+              "size": "44",
+              "availability": "3",
+              "ean": "7438632256961"
+            },
+            {
+              "id": "42523_46",
+              "parent_id": "42523",
+              "size": "46",
+              "availability": "3",
+              "ean": "7438632255872"
+            },
+            {
+              "id": "42523_48",
+              "parent_id": "42523",
+              "size": "48",
+              "availability": "1",
+              "ean": "7438632277973"
+            }
+          ]
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "black",
+        "Product_MadeIn": "SLOVAKIA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42543",
+        "Product_Model": "WH2-64_580259_100",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "T-shirts",
+        "Product_Category": "Women T-shirts",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women T-shirt",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> T-shirts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> white<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Sleeves:</b> 3/4 Sleeves<br>&bull; <b>Neckline:</b> boat neck<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% viscose <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "19",
+        "Product_Image_1": "http://static.griffati.com/images/large1/100_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_BIANCO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/100_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_BIANCO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/100_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_BIANCO.jpg",
+        "Product_Quantity": "4",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42543_40",
+            "parent_id": "42543",
+            "size": "40",
+            "availability": "4",
+            "ean": "7438632256381"
+          }
+        },
+        "Product_Weight": "0.300",
+        "Product_Colour": "white",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42545",
+        "Product_Model": "WH2-64_580259_270",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "T-shirts",
+        "Product_Category": "Women T-shirts",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women T-shirt",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> T-shirts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> beige<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Neckline:</b> round neck<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% viscose <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "19",
+        "Product_Image_1": "http://static.griffati.com/images/large1/270_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_BEIGE.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/270_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_BEIGE.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/270_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_BEIGE.jpg",
+        "Product_Quantity": "9",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42545_42",
+            "parent_id": "42545",
+            "size": "42",
+            "availability": "9",
+            "ean": "7438632257401"
+          }
+        },
+        "Product_Weight": "0.300",
+        "Product_Colour": "beige",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42546",
+        "Product_Model": "WH2-64_580259_292",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "T-shirts",
+        "Product_Category": "Women T-shirts",
+        "Product_Manufacturer": "Calvin klein",
+        "Product_Name": "Calvin Klein Women T-shirt",
+        "Product_Description": "<b>Brand:</b> Calvin Klein<br><b>Gender:</b> Women<br><b>Type:</b> T-shirts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> brown<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Sleeves:</b> 3/4 Sleeves<br>&bull; <b>Neckline:</b> round neck<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b>  -100% viscose <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "19",
+        "Product_Image_1": "http://static.griffati.com/images/large1/292_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_MARRONE.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/292_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_MARRONE.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/292_TINTA_UNITA_C83D46897B57930BB07C877247E166F8_MARRONE.jpg",
+        "Product_Quantity": "4",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42546_42",
+            "parent_id": "42546",
+            "size": "42",
+            "availability": "4",
+            "ean": "7438632256862"
+          }
+        },
+        "Product_Weight": "0.300",
+        "Product_Colour": "brown",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42601",
+        "Product_Model": "WH2-1655-R03_1120",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Underwear",
+        "Product_Category": "Women Underwear",
+        "Product_Manufacturer": "Just cavalli",
+        "Product_Name": "Just Cavalli Women Underwear",
+        "Product_Description": "<b>Brand:</b> Just Cavalli<br><b>Gender:</b> Women<br><b>Type:</b> Underwear<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> white<br>&bull; <b>Fastening:</b> hook button<br>&bull; <b>Sleeves:</b> straps<br>&bull; <b>Neckline:</b> sweetheart neckline<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -16% elastane -84% polyamide <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "79.00",
+        "Product_Price_Special": "18",
+        "Product_Image_1": "http://static.griffati.com/images/large1/1120_TINTA_UNITA_0FDDB606BED0FC9576F9D26F01AC58EF_BIANCO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/1120_TINTA_UNITA_0FDDB606BED0FC9576F9D26F01AC58EF_BIANCO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/1120_TINTA_UNITA_0FDDB606BED0FC9576F9D26F01AC58EF_BIANCO.jpg",
+        "Product_Quantity": "4",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42601_IV",
+              "parent_id": "42601",
+              "size": "IV",
+              "availability": "2",
+              "ean": "8033730278243"
+            },
+            {
+              "id": "42601_I",
+              "parent_id": "42601",
+              "size": "I",
+              "availability": "2",
+              "ean": "8033730278229"
+            }
+          ]
+        },
+        "Product_Weight": "0.250",
+        "Product_Colour": "white",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42679",
+        "Product_Model": "WH2-C42R_RONHY_141",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Trousers",
+        "Product_Category": "Women Trousers",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Trousers",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Trousers<br><b>Made in:</b> Morocco<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> white<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Fastening:</b> zip and button<br>&bull; <b>Pockets:</b> front and back pockets <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -98% cotton -2% elastane <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "163.00",
+        "Product_Price_Special": "46",
+        "Product_Image_1": "http://static.griffati.com/images/large1/141_TINTA_UNITA_69B74420B6B5F0A63AFA57B6D8F4387F_BIANCO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/141_TINTA_UNITA_69B74420B6B5F0A63AFA57B6D8F4387F_BIANCO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/141_TINTA_UNITA_69B74420B6B5F0A63AFA57B6D8F4387F_BIANCO.jpg",
+        "Product_Quantity": "1",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42679_30",
+            "parent_id": "42679",
+            "size": "30",
+            "availability": "1",
+            "ean": "7438632257821"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "white",
+        "Product_MadeIn": "MOROCCO",
+        "Product_Season": "0>"
+      },
+      {
+        "Product_id": "42690",
+        "Product_Model": "WH2-C9CH_GRUBB-SERVICE_126",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> purple<br>&bull; <b>Fastening:</b> buckle/bow<br>&bull; <b>Details:</b> -elasticated waist <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -45% cotton -55% polyester ",
+        "Product_Price": "97.00",
+        "Product_Price_Special": "27",
+        "Product_Image_1": "http://static.griffati.com/images/large1/126_TINTA_UNITA_28F23A1D729D4A1E583FCECC0B3C3F73_VIOLA.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/126_TINTA_UNITA_28F23A1D729D4A1E583FCECC0B3C3F73_VIOLA.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/126_TINTA_UNITA_28F23A1D729D4A1E583FCECC0B3C3F73_VIOLA.jpg",
+        "Product_Quantity": "5",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42690_100",
+              "parent_id": "42690",
+              "size": "100",
+              "availability": "1",
+              "ean": "8033666917382"
+            },
+            {
+              "id": "42690_80",
+              "parent_id": "42690",
+              "size": "80",
+              "availability": "4",
+              "ean": "8033666917360"
+            }
+          ]
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "purple",
+        "Product_MadeIn": "",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42693",
+        "Product_Model": "WH2-C9CS_GRUBB-SERVICE_45",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> purple<br>&bull; <b>Fastening:</b> buckle/bow<br>&bull; <b>Details:</b> -elasticated waist <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -45% cotton -55% polyester ",
+        "Product_Price": "97.00",
+        "Product_Price_Special": "27",
+        "Product_Image_1": "http://static.griffati.com/images/large1/45_TINTA_UNITA_80FDFEEAD3A0BE6CDF5167FF99CB057E_VIOLA.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/45_TINTA_UNITA_80FDFEEAD3A0BE6CDF5167FF99CB057E_VIOLA.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/45_TINTA_UNITA_80FDFEEAD3A0BE6CDF5167FF99CB057E_VIOLA.jpg",
+        "Product_Quantity": "1",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42693_80",
+            "parent_id": "42693",
+            "size": "80",
+            "availability": "1",
+            "ean": "8033666917360"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "purple",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42695",
+        "Product_Model": "WH2-C9ET_PITHY",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> multicolor<br>&bull; <b>Pattern:</b> striped<br>&bull; <b>Fastening:</b> buckle/bow",
+        "Product_Price": "74.00",
+        "Product_Price_Special": "21",
+        "Product_Image_1": "http://static.griffati.com/images/large1/900A_FANTASIA_FFFF107D9DBC1CA858196287B669D210_MULTICOLOR.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/900A_FANTASIA_FFFF107D9DBC1CA858196287B669D210_MULTICOLOR.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/900A_FANTASIA_FFFF107D9DBC1CA858196287B669D210_MULTICOLOR.jpg",
+        "Product_Quantity": "3",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42695_80",
+              "parent_id": "42695",
+              "size": "80",
+              "availability": "1",
+              "ean": "7438632257715"
+            },
+            {
+              "id": "42695_75",
+              "parent_id": "42695",
+              "size": "75",
+              "availability": "2",
+              "ean": "7438632257777"
+            }
+          ]
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "multicolor",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42696",
+        "Product_Model": "WH2-C9ET_PITHY",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> multicolor<br>&bull; <b>Fastening:</b> buckle/bow",
+        "Product_Price": "74.00",
+        "Product_Price_Special": "21",
+        "Product_Image_1": "http://static.griffati.com/images/large1/900B_FANTASIA_FFFF107D9DBC1CA858196287B669D210_MULTICOLOR.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/900B_FANTASIA_FFFF107D9DBC1CA858196287B669D210_MULTICOLOR.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/900B_FANTASIA_FFFF107D9DBC1CA858196287B669D210_MULTICOLOR.jpg",
+        "Product_Quantity": "3",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42696_75",
+            "parent_id": "42696",
+            "size": "75",
+            "availability": "3",
+            "ean": "7438632257708"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "multicolor",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42698",
+        "Product_Model": "WH2-CB1H_GOLOSITY_54",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> white<br>&bull; <b>Pattern:</b> print<br>&bull; <b>Fastening:</b> buckle/bow<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Material:</b> leather",
+        "Product_Price": "106.00",
+        "Product_Price_Special": "30",
+        "Product_Image_1": "http://static.griffati.com/images/large1/54_TINTA_UNITA_66DE1313819C7EC0AC1FB7BF3971B242_BEIGE.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/54_TINTA_UNITA_66DE1313819C7EC0AC1FB7BF3971B242_BEIGE.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/54_TINTA_UNITA_66DE1313819C7EC0AC1FB7BF3971B242_BEIGE.jpg",
+        "Product_Quantity": "3",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42698_80",
+              "parent_id": "42698",
+              "size": "80",
+              "availability": "2",
+              "ean": "8033666386913"
+            },
+            {
+              "id": "42698_85",
+              "parent_id": "42698",
+              "size": "85",
+              "availability": "1",
+              "ean": "8033666386913"
+            }
+          ]
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "white",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42699",
+        "Product_Model": "WH2-CB1H_GOLOSITY_03",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Pattern:</b> print<br>&bull; <b>Fastening:</b> buckle/bow<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% leather <br>&bull; <b>Material:</b> leather",
+        "Product_Price": "106.00",
+        "Product_Price_Special": "30",
+        "Product_Image_1": "http://static.griffati.com/images/large1/03_TINTA_UNITA_66DE1313819C7EC0AC1FB7BF3971B242_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/03_TINTA_UNITA_66DE1313819C7EC0AC1FB7BF3971B242_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/03_TINTA_UNITA_66DE1313819C7EC0AC1FB7BF3971B242_NERO.jpg",
+        "Product_Quantity": "2",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42699_85",
+            "parent_id": "42699",
+            "size": "85",
+            "availability": "2",
+            "ean": "8033666449434"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "black",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42706",
+        "Product_Model": "WH2-CBUD_RAINN",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Fastening:</b> buckle/bow<br>&bull; <b>Details:</b> -stained effect <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% leather <br>&bull; <b>Material:</b> leather",
+        "Product_Price": "79.00",
+        "Product_Price_Special": "22",
+        "Product_Image_1": "http://static.griffati.com/images/large1/03_TINTA_UNITA_AE609C90C3638A96BF2D7FB70E785D31_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/03_TINTA_UNITA_AE609C90C3638A96BF2D7FB70E785D31_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/03_TINTA_UNITA_AE609C90C3638A96BF2D7FB70E785D31_NERO.jpg",
+        "Product_Quantity": "1",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42706_90",
+            "parent_id": "42706",
+            "size": "90",
+            "availability": "1",
+            "ean": "8033666691703"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "black",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42710",
+        "Product_Model": "WH2-CCKJ_DUO-BUCK_6",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> brown<br>&bull; <b>Fastening:</b> buckle/bow<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Material:</b> leather",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "22",
+        "Product_Image_1": "http://static.griffati.com/images/large1/6_TINTA_UNITA_6B569FF68EF6E92DC23B02E8A85D71D0_MARRONE.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/6_TINTA_UNITA_6B569FF68EF6E92DC23B02E8A85D71D0_MARRONE.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/6_TINTA_UNITA_6B569FF68EF6E92DC23B02E8A85D71D0_MARRONE.jpg",
+        "Product_Quantity": "8",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42710_85",
+              "parent_id": "42710",
+              "size": "85",
+              "availability": "5",
+              "ean": "8033666810555"
+            },
+            {
+              "id": "42710_90",
+              "parent_id": "42710",
+              "size": "90",
+              "availability": "3",
+              "ean": "8033666810562"
+            }
+          ]
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "brown",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42712",
+        "Product_Model": "WH2-CCKJ_DUO-BUCK",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Belts",
+        "Product_Category": "Women Belts",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Belt",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Belts<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> red<br>&bull; <b>Fastening:</b> buckle/bow<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Material:</b> leather",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "22",
+        "Product_Image_1": "http://static.griffati.com/images/large1/126_TINTA_UNITA_6B569FF68EF6E92DC23B02E8A85D71D0_ROSSO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/126_TINTA_UNITA_6B569FF68EF6E92DC23B02E8A85D71D0_ROSSO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/126_TINTA_UNITA_6B569FF68EF6E92DC23B02E8A85D71D0_ROSSO.jpg",
+        "Product_Quantity": "4",
+        "Product_Sizes": {
+          "Model": [
+            {
+              "id": "42712_85",
+              "parent_id": "42712",
+              "size": "85",
+              "availability": "2",
+              "ean": "7438632258002"
+            },
+            {
+              "id": "42712_90",
+              "parent_id": "42712",
+              "size": "90",
+              "availability": "1",
+              "ean": "7438632258088"
+            },
+            {
+              "id": "42712_95",
+              "parent_id": "42712",
+              "size": "95",
+              "availability": "1",
+              "ean": "7438632257692"
+            }
+          ]
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "red",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42716",
+        "Product_Model": "WH2-CH37_WENWY_900",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Blazer",
+        "Product_Category": "Women Blazer",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Blazer",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Blazer<br><b>Made in:</b> China<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Fastening:</b> zip and button<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Neckline:</b> turtleneck<br>&bull; <b>Pockets:</b> front pockets<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull;  <b>Washing:</b> dry cleaned",
+        "Product_Price": "251.00",
+        "Product_Price_Special": "71",
+        "Product_Image_1": "http://static.griffati.com/images/large1/900_TINTA_UNITA_25BB400ADE2D08C5A072F30A321AC92F_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/900_TINTA_UNITA_25BB400ADE2D08C5A072F30A321AC92F_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/900_TINTA_UNITA_25BB400ADE2D08C5A072F30A321AC92F_NERO.jpg",
+        "Product_Quantity": "8",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42716_S",
+            "parent_id": "42716",
+            "size": "S",
+            "availability": "8",
+            "ean": "8033870905221"
+          }
+        },
+        "Product_Weight": "2.000",
+        "Product_Colour": "black",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "0>"
+      },
+      {
+        "Product_id": "42731",
+        "Product_Model": "WH2-D5JM_JOY-ELLO_(55DSL)_D626",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Blazer",
+        "Product_Category": "Women Blazer",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Blazer",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Blazer<br><b>Made in:</b> China<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> purple<br>&bull; <b>Pattern:</b> coloured<br>&bull; <b>Fastening:</b> zip and laces<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Neckline:</b> turtleneck<br>&bull; <b>Pockets:</b> front pockets<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% nylon <br>&bull;  <b>Washing:</b> dry cleaned",
+        "Product_Price": "178.00",
+        "Product_Price_Special": "50",
+        "Product_Image_1": "http://static.griffati.com/images/large1/D626_TINTA_UNITA_3FAA3CC8442CB91979B1DA39E8CE1919_VIOLA.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/D626_TINTA_UNITA_3FAA3CC8442CB91979B1DA39E8CE1919_VIOLA.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/D626_TINTA_UNITA_3FAA3CC8442CB91979B1DA39E8CE1919_VIOLA.jpg",
+        "Product_Quantity": "1",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42731_L",
+            "parent_id": "42731",
+            "size": "L",
+            "availability": "1",
+            "ean": "8034084022544"
+          }
+        },
+        "Product_Weight": "2.000",
+        "Product_Colour": "purple",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "0>"
+      },
+      {
+        "Product_id": "42742",
+        "Product_Model": "WH2-XL42_CLICK_T4050",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Bags",
+        "Product_Category": "Women Bags",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Bag",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Bags<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> pink<br>&bull; <b>Fastening:</b> with zip<br>&bull; <b>Pockets:</b> outside pocket<br>&bull; <b>Details:</b> -handbag -zip pockets ",
+        "Product_Price": "110.00",
+        "Product_Price_Special": "31",
+        "Product_Image_1": "http://static.griffati.com/images/large1/T4050_TINTA_UNITA_1E5C78DC64A4CD6D794470BAF8165315_ROSA.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/T4050_TINTA_UNITA_1E5C78DC64A4CD6D794470BAF8165315_ROSA.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/T4050_TINTA_UNITA_1E5C78DC64A4CD6D794470BAF8165315_ROSA.jpg",
+        "Product_Quantity": "0",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42742_UNIQUE",
+            "parent_id": "42742",
+            "size": "UNIQUE",
+            "availability": "0",
+            "ean": "8033931060074"
+          }
+        },
+        "Product_Weight": "1.500",
+        "Product_Colour": "pink",
+        "Product_MadeIn": "",
+        "Product_Season": "0>"
+      },
+      {
+        "Product_id": "42745",
+        "Product_Model": "WH2-XQ00_GLIMPSE_T6291",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Bags",
+        "Product_Category": "Women Bags",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Bag",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Bags<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> light Blue<br>&bull; <b>Fastening:</b> with zip<br>&bull; <b>Pockets:</b> inside and outside pockets<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% cotton ",
+        "Product_Price": "139.00",
+        "Product_Price_Special": "39",
+        "Product_Image_1": "http://static.griffati.com/images/large1/T6291_TINTA_UNITA_681A85F574D197E7F9900DE48A390601_AZZURRO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/T6291_TINTA_UNITA_681A85F574D197E7F9900DE48A390601_AZZURRO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/T6291_TINTA_UNITA_681A85F574D197E7F9900DE48A390601_AZZURRO.jpg",
+        "Product_Quantity": "1",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42745_UNIQUE",
+            "parent_id": "42745",
+            "size": "UNIQUE",
+            "availability": "1",
+            "ean": "8033931063327"
+          }
+        },
+        "Product_Weight": "1.500",
+        "Product_Colour": "light Blue",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42746",
+        "Product_Model": "WH2-XQ02_RISE_T6291",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Bags",
+        "Product_Category": "Women Bags",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Bag",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Bags<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> light Blue<br>&bull; <b>Fastening:</b> with zip<br>&bull; <b>Pockets:</b> outside pocket<br>&bull; <b>Details:</b> -shoulder bags -zip pockets <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% cotton ",
+        "Product_Price": "110.00",
+        "Product_Price_Special": "31",
+        "Product_Image_1": "http://static.griffati.com/images/large1/T6291_TINTA_UNITA_F91488EF712F87575CC7141C24264C9D_AZZURRO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/T6291_TINTA_UNITA_F91488EF712F87575CC7141C24264C9D_AZZURRO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/T6291_TINTA_UNITA_F91488EF712F87575CC7141C24264C9D_AZZURRO.jpg",
+        "Product_Quantity": "3",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42746_UNIQUE",
+            "parent_id": "42746",
+            "size": "UNIQUE",
+            "availability": "3",
+            "ean": "8033931063419"
+          }
+        },
+        "Product_Weight": "1.500",
+        "Product_Colour": "light Blue",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42749",
+        "Product_Model": "WH2-XQ03_SCREEN_T6291",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Bags",
+        "Product_Category": "Women Bags",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Women Bag",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Women<br><b>Type:</b> Bags<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> light Blue<br>&bull; <b>Fastening:</b> with zip<br>&bull; <b>Pockets:</b> inside pockets<br>&bull; <b>Details:</b> -handbag -inside compartments <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% cotton ",
+        "Product_Price": "110.00",
+        "Product_Price_Special": "31",
+        "Product_Image_1": "http://static.griffati.com/images/large1/T6291_TINTA_UNITA_DE151D3C5FD6FA1E3CFDA7D94A71181F_AZZURRO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/T6291_TINTA_UNITA_DE151D3C5FD6FA1E3CFDA7D94A71181F_AZZURRO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/T6291_TINTA_UNITA_DE151D3C5FD6FA1E3CFDA7D94A71181F_AZZURRO.jpg",
+        "Product_Quantity": "12",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42749_UNIQUE",
+            "parent_id": "42749",
+            "size": "UNIQUE",
+            "availability": "12",
+            "ean": "8033931063433"
+          }
+        },
+        "Product_Weight": "1.500",
+        "Product_Colour": "light Blue",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42753",
+        "Product_Model": "WH2-BT46_SEC_H2999",
+        "Product_MainCategory": "Men",
+        "Product_SubCategory": "Bags",
+        "Product_Category": "Men Bags",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Men Bag",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Men<br><b>Type:</b> Bags<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> black<br>&bull; <b>Pattern:</b> print<br>&bull; <b>Fastening:</b> with zip<br>&bull; <b>Pockets:</b> inside and outside pockets<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b>  -100%  polyurethane <br>&bull;  <b>Washing:</b> dry cleaned",
+        "Product_Price": "126.00",
+        "Product_Price_Special": "36",
+        "Product_Image_1": "http://static.griffati.com/images/large1/H2999_FANTASIA_FF6E01502D53B109B83591BE4B8A4D31_NERO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/H2999_FANTASIA_FF6E01502D53B109B83591BE4B8A4D31_NERO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/H2999_FANTASIA_FF6E01502D53B109B83591BE4B8A4D31_NERO.jpg",
+        "Product_Quantity": "12",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42753_UNIQUE",
+            "parent_id": "42753",
+            "size": "UNIQUE",
+            "availability": "12",
+            "ean": "8034068282902"
+          }
+        },
+        "Product_Weight": "1.500",
+        "Product_Colour": "black",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42757",
+        "Product_Model": "WH2-XN43_FLY_H2647",
+        "Product_MainCategory": "Men",
+        "Product_SubCategory": "Bags",
+        "Product_Category": "Men Bags",
+        "Product_Manufacturer": "Diesel",
+        "Product_Name": "Diesel Men Bag",
+        "Product_Description": "<b>Brand:</b> Diesel<br><b>Gender:</b> Men<br><b>Type:</b> Bags<br><b>Made in:</b> China<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> white<br>&bull; <b>Fastening:</b> with zip<br>&bull; <b>Pockets:</b> inside and outside pockets<br>&bull; <b>Details:</b> -rucksack <br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -100% polyester ",
+        "Product_Price": "172.00",
+        "Product_Price_Special": "49",
+        "Product_Image_1": "http://static.griffati.com/images/large1/H2647_TINTA_UNITA_0326B0D1B04BE4290029EA856982437C_BIANCO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/H2647_TINTA_UNITA_0326B0D1B04BE4290029EA856982437C_BIANCO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/H2647_TINTA_UNITA_0326B0D1B04BE4290029EA856982437C_BIANCO.jpg",
+        "Product_Quantity": "19",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42757_UNIQUE",
+            "parent_id": "42757",
+            "size": "UNIQUE",
+            "availability": "19",
+            "ean": "8033931060609"
+          }
+        },
+        "Product_Weight": "1.500",
+        "Product_Colour": "white",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42928",
+        "Product_Model": "WH2-ARANCAUT502008_RELEI_9999",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Knitwear",
+        "Product_Category": "Women Knitwear",
+        "Product_Manufacturer": "Phard",
+        "Product_Name": "Phard Women Knitwear",
+        "Product_Description": "<b>Brand:</b> Phard<br><b>Gender:</b> Women<br><b>Type:</b> Knitwear<br><b>Made in:</b> Italy<br><b>Season:</b> All seasons<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> pink<br>&bull; <b>Fastening:</b> buttons<br>&bull; <b>Sleeves:</b> long<br>&bull; <b>Neckline:</b> v-neck<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b>  -83% cotton  -17% nylon <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "11",
+        "Product_Image_1": "http://static.griffati.com/images/large1/9999_TINTA_UNITA_A9B804A9C80DFED648001F97A960C863_ROSA.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/9999_TINTA_UNITA_A9B804A9C80DFED648001F97A960C863_ROSA.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/9999_TINTA_UNITA_A9B804A9C80DFED648001F97A960C863_ROSA.jpg",
+        "Product_Quantity": "1",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42928_S",
+            "parent_id": "42928",
+            "size": "S",
+            "availability": "1",
+            "ean": "7438632276235"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "pink",
+        "Product_MadeIn": "ITALY",
+        "Product_Season": "2>"
+      },
+      {
+        "Product_id": "42944",
+        "Product_Model": "WH2-P1113530555600_BOUDOIR",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Cardigan",
+        "Product_Category": "Women Cardigan",
+        "Product_Manufacturer": "Phard",
+        "Product_Name": "Phard Woman Cardigan",
+        "Product_Description": "<b>Brand:</b> Phard<br><b>Gender:</b> Woman<br><b>Type:</b> Cardigan<br><b>Made in:</b> China<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> pink<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Sleeves:</b> long<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b>  -40% angora  -5% elastane  -50% wool  -5% polyester <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "11",
+        "Product_Image_1": "http://static.griffati.com/images/large1/1459_TINTA_UNITA_06CF029AECB608189FD6DA0F1B985FA7_ROSA.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/1459_TINTA_UNITA_06CF029AECB608189FD6DA0F1B985FA7_ROSA.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/1459_TINTA_UNITA_06CF029AECB608189FD6DA0F1B985FA7_ROSA.jpg",
+        "Product_Quantity": "2",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42944_S",
+            "parent_id": "42944",
+            "size": "S",
+            "availability": "2",
+            "ean": "7438632274118"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "pink",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "0>"
+      },
+      {
+        "Product_id": "42953",
+        "Product_Model": "WH2-P1116750552500_AGENORE_1787",
+        "Product_MainCategory": "Women",
+        "Product_SubCategory": "Cardigan",
+        "Product_Category": "Women Cardigan",
+        "Product_Manufacturer": "Phard",
+        "Product_Name": "Phard Women Cardigan",
+        "Product_Description": "<b>Brand:</b> Phard<br><b>Gender:</b> Women<br><b>Type:</b> Cardigan<br><b>Made in:</b> China<br><b>Season:</b> Fall/Winter<br><br><b>PRODUCT DETAIL</b><br>&bull; <b>Color:</b> light Blue<br>&bull; <b>Pattern:</b> plain<br>&bull; <b>Sleeves:</b> long<br><br><b>COMPOSITION AND MATERIAL</b><br>&bull; <b>Composition:</b> -40% angora -5% elastane -50% wool -5% polyester <br>&bull;  <b>Washing:</b> machine wash at 30°",
+        "Product_Price": "80.00",
+        "Product_Price_Special": "11",
+        "Product_Image_1": "http://static.griffati.com/images/large1/1787_TINTA_UNITA_1AC503BBF62F3417A1B9C3E16E0AA1C4_AZZURRO.jpg",
+        "Product_Image_2": "http://static.griffati.com/images/large2/1787_TINTA_UNITA_1AC503BBF62F3417A1B9C3E16E0AA1C4_AZZURRO.jpg",
+        "Product_Image_3": "http://static.griffati.com/images/large3/1787_TINTA_UNITA_1AC503BBF62F3417A1B9C3E16E0AA1C4_AZZURRO.jpg",
+        "Product_Quantity": "2",
+        "Product_Sizes": {
+          "Model": {
+            "id": "42953_M",
+            "parent_id": "42953",
+            "size": "M",
+            "availability": "2",
+            "ean": "7438632276242"
+          }
+        },
+        "Product_Weight": "0.500",
+        "Product_Colour": "light Blue",
+        "Product_MadeIn": "CHINA",
+        "Product_Season": "0>"
+      }
+    ]
+  }
+}
