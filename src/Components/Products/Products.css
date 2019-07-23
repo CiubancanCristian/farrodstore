@@ -1,3 +1,19 @@
 img{
-	width: 300px;
+	width: 233px;
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+img{
+	width: 200px;
+}
+h2{
+	font-size: 1em;
+}
+.products{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
 }

@@ -27,7 +27,7 @@
 .showhim:hover .showme {
 	height: 14em;
 	position: absolute;
-	top: 7.6em;
+	top: 7.5em;
 	left: 0;
 	display: flex;
 	align-items: center;
@@ -38,4 +38,16 @@
 }
 ul {
 	list-style-type: none;
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+  .nav{
+	visibility: hidden;
+  }
+  .curr{
+	display: none;
+  }
 }

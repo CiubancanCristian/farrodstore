@@ -23,29 +23,26 @@ class App extends Component {
 	componentDidMount() {
 		window.addEventListener("scroll", this.handleScroll);
 		this.setState({ products: products.Products.Product });
+		console.log(products.Products.Product)
 	}
 
 	componentWillUnmount() {
 		window.removeEventListener("scroll", this.handleScroll);
 	}
 
-	onSearchChange = event => {
-		this.setState({ searchfield: event.target.value });
-	};
 	SearchButtonHandler = () => {
 		this.setState(prevState => {
 			return { searchOpen: !prevState.searchOpen };
 		});
 	};
-	2;
-	onSearchChange = event => {
-		this.setState({ searchfield: event.target.value });
-	};
 	backdropClickHandler = () => {
 		this.setState({ searchOpen: false });
 	};
 	onKeyPressed = event => {
-		if (event.keyCode === 13) this.setState({ searchOpen: false });
+		if (event.keyCode === 13) {
+			this.setState({ searchOpen: false });
+			this.setState({ searchfield: event.target.value });
+		}
 	};
 
 	handleScroll = () => {
@@ -93,7 +90,6 @@ class App extends Component {
 				<p className="navmask"></p>
 
 				<ProductList className="" products={filteredProducts} />
-				<FirstPage className="" />
 			</div>
 		);
 	}

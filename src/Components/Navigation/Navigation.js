@@ -16,8 +16,10 @@ const Navigation = ({
 			<p className="mask"></p>
 			<div className="navigation w-100 white">
 				<div className="logo flex justify-between items-center w-100 bg-black">
-					<div className="w-30 src={magnifier}">
-						<SearchToggle click={searchButtonClick} />
+					<div className="menu w-30 flex justify-center items-center src={magnifier}">
+						<p className="pr2 pl2">MENU</p>
+						<p className="curr pr2 pl2">CURR</p>
+						<p className="pr2 pl2">COS</p>
 					</div>
 
 					<div className="">
@@ -93,7 +95,7 @@ const Navigation = ({
 					</div>
 					<div className="showhim  f5 link pa3 pointer flex items-center justify-center">
 						Men
-						<div className="showme bg-white ">
+						<div className="showme bg-black">
 							<div className="submenu">
 								<ul className="">
 									<p className="fw7">Hot</p>
@@ -151,7 +153,7 @@ const Navigation = ({
 					</div>
 					<div className="showhim  f5 link pa3 pointer flex items-center justify-center">
 						Kids
-						<div className="showme bg-white ">
+						<div className="showme bg-black ">
 							<div className="submenu">
 								<ul className="">
 									<p className="fw7">Hot</p>
@@ -200,7 +202,7 @@ const Navigation = ({
 					</div>
 					<div className="showhim  f5 link pa3 pointer flex items-center justify-center">
 						House
-						<div className="showme bg-white ">
+						<div className="showme bg-black ">
 							<div className="submenu">
 								<ul className="">
 									<p className="fw7">Hot</p>
