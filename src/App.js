@@ -23,7 +23,6 @@ class App extends Component {
 	componentDidMount() {
 		window.addEventListener("scroll", this.handleScroll);
 		this.setState({ products: products.Products.Product });
-		console.log(products.Products.Product)
 	}
 
 	componentWillUnmount() {
@@ -49,14 +48,19 @@ class App extends Component {
 		const { prevScrollpos } = this.state;
 
 		const currentScrollPos = window.pageYOffset;
-		const visible = prevScrollpos > currentScrollPos;
-		if(currentScrollPos > 1){
-		this.backdropClickHandler();}
+		if (currentScrollPos < 400) {
+			this.setState({
+				visible: true
+			});
+		} else {
+			const visible = prevScrollpos > currentScrollPos;
+			this.backdropClickHandler();
 
-		this.setState({
-			prevScrollpos: currentScrollPos,
-			visible
-		});
+			this.setState({
+				prevScrollpos: currentScrollPos,
+				visible
+			});
+		}
 	};
 
 	render() {

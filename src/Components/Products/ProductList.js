@@ -7,7 +7,7 @@ const ProductList = ({ products }) => {
 		<div className="productList pr5-l pl5-l">
 			{products.map((user, i) => {
 				return (
-					<div className="produsDisplay pr1 pl1 pa5-l">
+					<div key={i} className="produsDisplay pr1 pl1 pa5-l">
 						<Product
 							className=""
 							key={i}

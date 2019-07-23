@@ -1,5 +1,4 @@
 import React from "react";
-import magnifier from './magnifier.png'
 import "./SearchToggle.css";
 
 const SearchToggle = props => (
