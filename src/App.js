@@ -50,7 +50,8 @@ class App extends Component {
 
 		const currentScrollPos = window.pageYOffset;
 		const visible = prevScrollpos > currentScrollPos;
-		this.backdropClickHandler();
+		if(currentScrollPos > 1){
+		this.backdropClickHandler();}
 
 		this.setState({
 			prevScrollpos: currentScrollPos,
