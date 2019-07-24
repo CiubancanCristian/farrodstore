@@ -16,7 +16,9 @@ class App extends Component {
 			products: [],
 			searchfield: "",
 			visible: true,
-			searchOpen: false
+			searchOpen: false,
+			showProductDetails: false,
+			clickedProduct: {}
 		};
 	}
 
@@ -32,6 +34,17 @@ class App extends Component {
 	SearchButtonHandler = () => {
 		this.setState(prevState => {
 			return { searchOpen: !prevState.searchOpen };
+		});
+	};
+	productClick = e => {
+		const products1 = products.Products.Product;
+		const product1 = products1.forEach((product, i) => {
+			if (products1[i].Product_id === e.target.id) {
+				this.setState({ clickedProduct: products1[i] });
+			}
+		});
+		this.setState(prevState => {
+			return { showProductDetails: !prevState.showProductDetails };
 		});
 	};
 	backdropClickHandler = () => {
@@ -94,7 +107,13 @@ class App extends Component {
 
 				<p className="navmask"></p>
 
-				<ProductList className="" products={filteredProducts} />
+				<ProductList
+					productDetailsClick={this.productClick}
+					className=""
+					show={this.state.showProductDetails}
+					products={filteredProducts}
+					product={this.state.clickedProduct}
+				/>
 			</div>
 		);
 	}

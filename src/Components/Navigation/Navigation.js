@@ -19,7 +19,7 @@ const Navigation = ({
 					<div className="menu w-30 flex justify-center items-center src={magnifier}">
 						<p className="pr2 pl2">MENU</p>
 						<p className="curr pr2 pl2">CURR</p>
-						<p className="pr2 pl2">COS</p>
+						<p className="curr pr2 pl2">COS</p>
 					</div>
 
 					<div className="">
