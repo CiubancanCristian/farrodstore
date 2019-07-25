@@ -7,7 +7,7 @@
   position: fixed;
   transition: top 1s;
   top: -1em;
-  z-index: 1;
+  z-index: 3;
 }
 
 .navmask {

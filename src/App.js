@@ -3,7 +3,7 @@ import "./App.css";
 import classNames from "classnames/bind";
 import Navigation from "./Components/Navigation/Navigation";
 import FirstPage from "./Components/FirstPage/FirstPage";
-import Backdrop from "./Components/Search/Backdrop";
+import Backdrop from "./Components/Products/Backdrop";
 import products from "./products.json";
 import ProductList from "./Components/Products/ProductList";
 
@@ -50,6 +50,9 @@ class App extends Component {
 	backdropClickHandler = () => {
 		this.setState({ searchOpen: false });
 	};
+	productBackdropClickHandler = () => {
+		this.setState({ showProductDetails: false });
+	};
 	onKeyPressed = event => {
 		if (event.keyCode === 13) {
 			this.setState({ searchOpen: false });
@@ -67,7 +70,6 @@ class App extends Component {
 			});
 		} else {
 			const visible = prevScrollpos > currentScrollPos;
-			this.backdropClickHandler();
 
 			this.setState({
 				prevScrollpos: currentScrollPos,
@@ -84,8 +86,8 @@ class App extends Component {
 			);
 		});
 		let backdrop;
-		if (this.state.searchOpen) {
-			backdrop = <Backdrop click={this.backdropClickHandler} />;
+		if (this.state.showProductDetails) {
+			backdrop = <Backdrop click={this.productBackdropClickHandler} />;
 		}
 		return (
 			<div className="App">
@@ -102,6 +104,7 @@ class App extends Component {
 							productList={filteredProducts}
 							enterDown={this.onKeyPressed}
 						/>
+						{backdrop}
 					</div>
 				</div>
 

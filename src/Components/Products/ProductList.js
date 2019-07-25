@@ -3,13 +3,13 @@ import Product from "./Product";
 import "./ProductList.css";
 import IndividualProduct from "./IndividualProduct";
 
-const ProductList = ({ products, productDetailsClick, show, product }) => {
+const ProductList = ({ products, productDetailsClick, show, product, backdrop }) => {
 	return (
 		<div className="productList pr5-l pl5-l">
 			{products.map((user, i) => {
 				return (
-					<div key={i}>
-						<div className="produsDisplay pr1 pl1 pa5-l">
+					<div className="produsDisplay" key={i}>
+						<div className=" pr1 pl1 pa5-l">
 							<Product
 								click={productDetailsClick}
 								className=""

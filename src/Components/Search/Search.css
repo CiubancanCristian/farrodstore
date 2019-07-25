@@ -5,7 +5,7 @@
 	width: 102vw;
 	height: 3em;
 	transform: translateX(600%);
-	z-index: 0;
+	z-index: 3;
 }
 input{
  background-image: url(whiteMagnifier.png);

@@ -12,7 +12,7 @@ const Navigation = ({
 	searchChange
 }) => {
 	return (
-		<div className="z-5">
+		<div className="z-5 outerNavigation">
 			<p className="mask"></p>
 			<div className="navigation w-100 white">
 				<div className="logo flex justify-between items-center w-100 bg-black">

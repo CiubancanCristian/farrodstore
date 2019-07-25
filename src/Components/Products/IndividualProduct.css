@@ -1,14 +1,35 @@
 .productDetails {
 	overflow: scroll;
 	position: fixed;
-	top:0;
-	right:0;
-	width: 100vw;
-	height: 100vh;
+	top:5vh;
+	left:20vw;
+	width: 60vw;
+	height: 90vh;
 	transform: translateX(600%);
 	z-index: 0;
 }
+
+img{
+
+}
 .productDetails.open {
 	transform: translateX(0);
-	z-index: 1;
+	z-index: 3;
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+.productDetails {
+	overflow: scroll;
+	position: fixed;
+	top:5vh;
+	left:10vw;
+	width: 80vw;
+	height: 90vh;
+	transform: translateX(600%);
+	z-index: 0;
+}
 }
