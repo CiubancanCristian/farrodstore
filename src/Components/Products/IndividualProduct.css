@@ -8,10 +8,6 @@
 	transform: translateX(600%);
 	z-index: 0;
 }
-
-img{
-
-}
 .productDetails.open {
 	transform: translateX(0);
 	z-index: 3;

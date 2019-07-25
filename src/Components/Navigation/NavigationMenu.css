@@ -1,0 +1,41 @@
+.Menu {
+	position: fixed;
+	top: 7.5vh;
+	left: 0;
+	transform: translateX(600%);
+	z-index: -1;
+}
+.categorie {
+	height: 10vh;
+	width: 30vw;
+}
+.subCategorie {
+	height: 5vh;
+	width: 30vw;
+}
+.Menu.open {
+	transform: translateX(0);
+	z-index: 0;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+	.categorie {
+	height: 10vh;
+	width: 100vw;
+}
+.subCategorie {
+	height: 5vh;
+	width: 100vw;
+}
+	.Menu {
+		background-color: rgb(104, 99, 104, 0.5);
+		overflow: scroll;
+		position: fixed;
+		top: 10vh;
+		left: 0;
+		width: 100vw;
+		height: 90vh;
+		transform: translateX(600%);
+		z-index: 0;
+	}
+}

@@ -1,11 +1,11 @@
 .logo {
-	height: 4em;
+	height: 5vh;
 }
 .login {
-	height: 2.5em;
+	height: 2.5vh;
 }
 .nav {
-	height: 2.5em;
+	height: 2.5vh;
 }
 
 .submenu {
@@ -37,15 +37,14 @@
 ul {
 	list-style-type: none;
 }
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-  .nav{
-	visibility: hidden;
-  }
-  .curr{
-	display: none;
-  }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+	.logo {
+		height: 10vh;
+	}
+	.nav {
+		visibility: hidden;
+	}
+	.curr {
+		display: none;
+	}
 }

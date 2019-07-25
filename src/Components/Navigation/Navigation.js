@@ -3,13 +3,18 @@ import "./Navigation.css";
 import farrod from "./farrod.png";
 import SearchToggle from "../Search/SearchToggle";
 import Search from "../Search/Search";
+import NavigationMenu from "./NavigationMenu";
+
 const Navigation = ({
 	onScrollEvent,
 	searchButtonClick,
 	show,
+	showMenu,
 	productList,
 	enterDown,
-	searchChange
+	productDetailsClick,
+	searchChange,
+	menuButtonClick
 }) => {
 	return (
 		<div className="z-5 outerNavigation">
@@ -17,7 +22,9 @@ const Navigation = ({
 			<div className="navigation w-100 white">
 				<div className="logo flex justify-between items-center w-100 bg-black">
 					<div className="menu w-30 flex justify-center items-center src={magnifier}">
-						<p className="pr2 pl2">MENU</p>
+						<div className="pr2 pl2" onClick={menuButtonClick}>
+							MENU
+						</div>
 						<p className="curr pr2 pl2">CURR</p>
 						<p className="curr pr2 pl2">COS</p>
 					</div>
@@ -33,7 +40,13 @@ const Navigation = ({
 						<SearchToggle click={searchButtonClick} />
 					</div>
 				</div>
-
+				<NavigationMenu
+					className="filters"
+					show={showMenu}
+					searchChange={searchChange}
+					productList={productList}
+					enterDown={enterDown}
+				/>
 				<div className="nav flex justify-center items-center bg-black ">
 					<div className="showhim  f5 link pa3 pointer flex items-center justify-center">
 						Women
